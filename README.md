@@ -5,7 +5,7 @@ With this tool programmed with Python, you can send unlimited messages to anyone
 This tool was programmed with the pyautogui library.
 
 You can follow me through the blog to find all new:
-https://thedigitalagee.blogspot.com/
+https://www.krsan4learn.com
 
 # Requirements
 Before running this tool you should install pyautogui library so as not to encounter any problems
@@ -17,4 +17,4 @@ You can review this video as well as the article to understand more about the me
 
 https://youtu.be/uc0NMbJlP7g
 
-https://thedigitalagee.blogspot.com/2020/11/send-messages-with-python.html
+https://www.krsan4learn.com/2020/11/send-messages-with-python.html
